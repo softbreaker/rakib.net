@@ -31,7 +31,7 @@
 .row .card{
     background: rgb(11,17,32);  
     color: rgb(146, 146, 241); 
-    padding: 15px;
+    padding: 10px;
     border-radius: 12px;
     cursor: pointer;
     border: 0.5px solid rgb(95, 87, 87);
