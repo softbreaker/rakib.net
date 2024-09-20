@@ -29,7 +29,7 @@
 }
 
 .row .card{
-    background: rgb(11,17,32);  
+    background: rgb(15,23,42);  
     color: rgb(146, 146, 241); 
     padding: 10px;
     border-radius: 12px;
@@ -44,7 +44,7 @@
     z-index: 5;
 }
 
-.card img{
+.img-card img{
     width: 50px;
     justify-content: center;
 }
@@ -53,3 +53,4 @@
     font-size: small;
     color: rgb(155, 148, 148);
 }
+
