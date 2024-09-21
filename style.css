@@ -34,23 +34,24 @@
     padding: 10px;
     border-radius: 12px;
     cursor: pointer;
-    border: 0.5px solid rgb(95, 87, 87);
+    border-color: rgba(248, 250, 252, .08);
     transition: all 0.5s;
     
 }
 
 .card:hover{
-    transform: scale(1.05); 
+    transform: scale(1.03); 
     z-index: 5;
+    border: 0.3px solid rgb(146, 146, 241);
 }
 
 .img-card img{
     width: 50px;
     justify-content: center;
+    margin-top: 5px;
 }
 
 .card p{
     font-size: small;
     color: rgb(155, 148, 148);
 }
-
