@@ -55,3 +55,23 @@
     font-size: small;
     color: rgb(155, 148, 148);
 }
+
+.icon i:hover {
+    opacity: 0.3;
+    transition: .5s ease;
+    backface-visibility: visible;
+}
+
+.quickLink a{
+    display: block;
+    padding: 10px 0 10px 0px;
+    margin: 0px;
+    text-decoration: none;
+    color: rgb(155, 148, 148);
+    font-size: medium;
+}
+
+.quickLink a:hover{
+    color: rgb(146, 146, 241);
+    transition: .5s ease;
+}
